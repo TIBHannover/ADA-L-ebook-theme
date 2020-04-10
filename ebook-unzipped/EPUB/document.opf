@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="fidus"
+        xml:lang="de-DE" prefix="cc: http://creativecommons.org/ns#">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier id="fidus">33</dc:identifier>
+        <dc:title>Krisenmanagement-BETA 2020-03-21</dc:title>
+        <dc:creator>
+            Böhm, Heidrun; Cwojdzinski, Detlef; Grote, Ulrike; Heitkötter, Kalle; Knauer, Christine; Möller, Ingrid; Pukropski, Guido; Sasse, Julia; Schmidt, Tanja; Siering, Ute; Stark, Karlin; Steul, Katrin; Tinnemann, Peter 
+        </dc:creator>
+        <dc:language>de-DE</dc:language>
+        <meta property="dcterms:modified">2020-04-10T08:21:52Z</meta>
+        <dc:date>2020-04-10</dc:date>
+        <dc:rights>© 2020 Die Autoren/innen. Creative Commons: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.de DOI: https://doi.org/10.25815/h0ec-f967</dc:rights>
+        <dc:publisher>Akademie für Öffentliches Gesundheitswesen in Düsseldorf</dc:publisher>
+        <dc:subject>Öffentlicher Gesundheitsdienst; Krisenmanagement; Risiko; Einsatzplanung; Infektionsschutz</dc:subject>
+    </metadata>
+    <manifest>
+        <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+        <item id="t1" href="document-1.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t2" href="document-2.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t3" href="document-3.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t4" href="document-4.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t5" href="document-5.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t6" href="document-6.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t7" href="document-7.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t8" href="document-8.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t9" href="document-9.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t10" href="document-10.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t11" href="document-11.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t12" href="document-12.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t13" href="document-13.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t14" href="document-14.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t15" href="document-15.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t16" href="document-16.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t17" href="document-17.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t18" href="document-18.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t19" href="document-19.xhtml"
+                        media-type="application/xhtml+xml" /><item id="t20" href="document-20.xhtml"
+                        media-type="application/xhtml+xml" />
+        <item id="nav" href="document-nav.xhtml" properties="nav"
+                media-type="application/xhtml+xml" />
+        <item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
+        <item id="cover-image" properties="cover-image" href="792e7142-99f2-4519-87df-1b35d54166d5.jpg" media-type="image/jpeg"/><item id="img1" href="8b61e4e6-c138-486a-a508-066aafcec607.jpg" media-type="image/jpeg"/><item id="img2" href="ccc4b3a2-99b9-464c-bbf0-bcaa6482ac57.png" media-type="image/png"/><item id="img3" href="b1c6adc6-40ab-49ab-878a-1edadaecc784.jpg" media-type="image/jpeg"/><item id="img4" href="aacd8b75-22dc-4975-8657-87812430b3ed.jpg" media-type="image/jpeg"/><item id="img5" href="1d4083da-3db7-4899-8c50-b4d87d249840.jpg" media-type="image/jpeg"/><item id="img6" href="9cf983fb-6e98-4dc9-b8c2-d07fa2165195.jpg" media-type="image/jpeg"/><item id="img7" href="2b9be091-dd4a-40e0-9d5e-2847433c369d.jpg" media-type="image/jpeg"/><item id="img8" href="12b7df8f-4ecc-43bd-8832-72c24096aef7.png" media-type="image/png"/><item id="img9" href="39f56377-8b88-4c46-90f3-a82b00972190.jpg" media-type="image/jpeg"/>
+        <item id="font0" href="NoticiaText-Bold_2.woff" media-type="application/font-woff" /><item id="font1" href="NoticiaText-Italic.woff" media-type="application/font-woff" /><item id="font2" href="NoticiaText-BoldItalic.woff" media-type="application/font-woff" /><item id="font3" href="NoticiaText-Regular.woff" media-type="application/font-woff" /><item id="font4" href="SourceSansPro-Bold.woff" media-type="application/font-woff" /><item id="font5" href="Cover.jpg" media-type="application/font-sfnt" /><item id="font6" href="LOGO_Akademie-oegw_Januar_2017.jpg" media-type="application/font-sfnt" />
+        <item id="css0" href="document.css"
+                        media-type="text/css" /><item id="css1" href="elephant.css"
+                        media-type="text/css" />
+        
+        <!-- ncx included for 2.0 reading system compatibility: -->
+        <item id="ncx" href="document.ncx" media-type="application/x-dtbncx+xml" />
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="cover" linear="no"/>
+        <itemref idref="titlepage" linear="yes"/>
+        <itemref idref="t1" linear="yes" /><itemref idref="t2" linear="yes" /><itemref idref="t3" linear="yes" /><itemref idref="t4" linear="yes" /><itemref idref="t5" linear="yes" /><itemref idref="t6" linear="yes" /><itemref idref="t7" linear="yes" /><itemref idref="t8" linear="yes" /><itemref idref="t9" linear="yes" /><itemref idref="t10" linear="yes" /><itemref idref="t11" linear="yes" /><itemref idref="t12" linear="yes" /><itemref idref="t13" linear="yes" /><itemref idref="t14" linear="yes" /><itemref idref="t15" linear="yes" /><itemref idref="t16" linear="yes" /><itemref idref="t17" linear="yes" /><itemref idref="t18" linear="yes" /><itemref idref="t19" linear="yes" /><itemref idref="t20" linear="yes" />
+        <itemref idref="copyright" linear="yes"/>
+        <itemref idref="nav" linear="no"/>
+    </spine>
+</package>

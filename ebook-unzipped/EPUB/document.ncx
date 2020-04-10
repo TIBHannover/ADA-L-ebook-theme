@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="de">
+    <head>
+        <meta name="dtb:fidus" content="33"/>
+    </head>
+    <docTitle>
+        <text>Krisenmanagement-BETA 2020-03-21</text>
+    </docTitle>
+    <navMap>
+        <!-- 2.01 NCX: playOrder is optional -->
+        <navPoint id="t0">
+            <navLabel><text>Cover</text></navLabel>
+            <content src="cover.xhtml#cover"/>
+
+        </navPoint>
+        <navPoint id="t1">
+            <navLabel><text>Title page</text></navLabel>
+            <content src="titlepage.xhtml#title"/>
+
+        </navPoint>
+        <navPoint id="t0-1">
+            <navLabel><text>Pre-release v1.0</text></navLabel>
+            <content src="document-1.xhtml"/>
+        <navPoint id="t_xsfnns58u-1">
+            <navLabel><text>KRI00-Startseite</text></navLabel>
+            <content src="document-1.xhtml#_xsfnns58u"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-2">
+            <navLabel><text>Definitionen</text></navLabel>
+            <content src="document-2.xhtml"/>
+        <navPoint id="t_4v9tkku67-2">
+            <navLabel><text>KRI01. Definitionen</text></navLabel>
+            <content src="document-2.xhtml#_4v9tkku67"/>
+        <navPoint id="tH2804443-2">
+            <navLabel><text>Definitionen</text></navLabel>
+            <content src="document-2.xhtml#H2804443"/>
+        <navPoint id="tH7032929-2">
+            <navLabel><text>Ausbruch</text></navLabel>
+            <content src="document-2.xhtml#H7032929"/>
+
+        </navPoint>
+        <navPoint id="tH385669-2">
+            <navLabel><text>Endemie</text></navLabel>
+            <content src="document-2.xhtml#H385669"/>
+
+        </navPoint>
+        <navPoint id="tH2426267-2">
+            <navLabel><text>Epidemie</text></navLabel>
+            <content src="document-2.xhtml#H2426267"/>
+
+        </navPoint>
+        <navPoint id="tH536534-2">
+            <navLabel><text>Pandemie (engl.: pandemic)</text></navLabel>
+            <content src="document-2.xhtml#H536534"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-3">
+            <navLabel><text>Einsatzplanung</text></navLabel>
+            <content src="document-3.xhtml"/>
+        <navPoint id="t_qi3hx0vcb-3">
+            <navLabel><text>KRI05. Einsatzplanung</text></navLabel>
+            <content src="document-3.xhtml#_qi3hx0vcb"/>
+        <navPoint id="tH4219403-3">
+            <navLabel><text>Ziele einer erfolgreichen Einsatzplanung</text></navLabel>
+            <content src="document-3.xhtml#H4219403"/>
+
+        </navPoint>
+        <navPoint id="tH6838526-3">
+            <navLabel><text>Risikobewertung</text></navLabel>
+            <content src="document-3.xhtml#H6838526"/>
+
+        </navPoint>
+        <navPoint id="tH3743170-3">
+            <navLabel><text>Szenarienspezifische Kommunikation</text></navLabel>
+            <content src="document-3.xhtml#H3743170"/>
+
+        </navPoint>
+        <navPoint id="tH4077202-3">
+            <navLabel><text>Alarmierung</text></navLabel>
+            <content src="document-3.xhtml#H4077202"/>
+
+        </navPoint>
+        <navPoint id="tH8680257-3">
+            <navLabel><text>Meldewege</text></navLabel>
+            <content src="document-3.xhtml#H8680257"/>
+
+        </navPoint>
+        <navPoint id="tH7063716-3">
+            <navLabel><text>Führungsorganisation</text></navLabel>
+            <content src="document-3.xhtml#H7063716"/>
+
+        </navPoint>
+        <navPoint id="tH5164423-3">
+            <navLabel><text>Akteure und Aufgaben</text></navLabel>
+            <content src="document-3.xhtml#H5164423"/>
+
+        </navPoint>
+        <navPoint id="tH379159-3">
+            <navLabel><text>Einsatzmaßnahmen</text></navLabel>
+            <content src="document-3.xhtml#H379159"/>
+
+        </navPoint>
+        <navPoint id="tH4854630-3">
+            <navLabel><text>Logistik und Koordination</text></navLabel>
+            <content src="document-3.xhtml#H4854630"/>
+
+        </navPoint>
+        <navPoint id="tH9233468-3">
+            <navLabel><text>Ressourcen</text></navLabel>
+            <content src="document-3.xhtml#H9233468"/>
+
+        </navPoint>
+        <navPoint id="tH7550717-3">
+            <navLabel><text>Checklisten für den Einsatz</text></navLabel>
+            <content src="document-3.xhtml#H7550717"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-4">
+            <navLabel><text>Stabsarbeit</text></navLabel>
+            <content src="document-4.xhtml"/>
+        <navPoint id="t_d9gkgu7jf-4">
+            <navLabel><text>KRI06. Stabsarbeit</text></navLabel>
+            <content src="document-4.xhtml#_d9gkgu7jf"/>
+        <navPoint id="tH71832-4">
+            <navLabel><text>Relevanz eines Arbeits-/ Krisenstabes</text></navLabel>
+            <content src="document-4.xhtml#H71832"/>
+
+        </navPoint>
+        <navPoint id="tH3482257-4">
+            <navLabel><text>Organisation &amp; Führung von Stäben</text></navLabel>
+            <content src="document-4.xhtml#H3482257"/>
+        <navPoint id="tH8447339-4">
+            <navLabel><text>Politisch-gesamtverantwortliche Komponente</text></navLabel>
+            <content src="document-4.xhtml#H8447339"/>
+
+        </navPoint>
+        <navPoint id="tH1737661-4">
+            <navLabel><text>Operativ-taktische Komponente</text></navLabel>
+            <content src="document-4.xhtml#H1737661"/>
+
+        </navPoint>
+        <navPoint id="tH4604508-4">
+            <navLabel><text>Dienstvorschrift DV 100  "Führung und Leitung im Einsatz"</text></navLabel>
+            <content src="document-4.xhtml#H4604508"/>
+
+        </navPoint>
+        <navPoint id="tH8544451-4">
+            <navLabel><text>Administrativ-organisatorische Komponente</text></navLabel>
+            <content src="document-4.xhtml#H8544451"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="tH4561262-4">
+            <navLabel><text>Zusammenarbeit der Stäbe</text></navLabel>
+            <content src="document-4.xhtml#H4561262"/>
+
+        </navPoint>
+        <navPoint id="tH5189915-4">
+            <navLabel><text>Krisenstab im Gesundheitsamt</text></navLabel>
+            <content src="document-4.xhtml#H5189915"/>
+
+        </navPoint>
+        <navPoint id="tH7531872-4">
+            <navLabel><text>Krisenmanagement auf der Ebene oberster Landesbehörden</text></navLabel>
+            <content src="document-4.xhtml#H7531872"/>
+
+        </navPoint>
+        <navPoint id="tH8753385-4">
+            <navLabel><text>Arbeitsweise im Stab</text></navLabel>
+            <content src="document-4.xhtml#H8753385"/>
+
+        </navPoint>
+        <navPoint id="tH4970034-4">
+            <navLabel><text>Aufgaben der Stabsfunktionen</text></navLabel>
+            <content src="document-4.xhtml#H4970034"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-5">
+            <navLabel><text>Kommunikation</text></navLabel>
+            <content src="document-5.xhtml"/>
+        <navPoint id="t_91jozksd2-5">
+            <navLabel><text>KRI07. Kommunikation</text></navLabel>
+            <content src="document-5.xhtml#_91jozksd2"/>
+        <navPoint id="tH5590511-5">
+            <navLabel><text>Risikokommunikation</text></navLabel>
+            <content src="document-5.xhtml#H5590511"/>
+
+        </navPoint>
+        <navPoint id="tH5421639-5">
+            <navLabel><text>Krisenkommunikation</text></navLabel>
+            <content src="document-5.xhtml#H5421639"/>
+
+        </navPoint>
+        <navPoint id="tH151341-5">
+            <navLabel><text>Presse- und Medienarbeit</text></navLabel>
+            <content src="document-5.xhtml#H151341"/>
+
+        </navPoint>
+        <navPoint id="tH6040904-5">
+            <navLabel><text>Direkte Kommunikation: Internet, Bürgertelefon, soziale Medien &amp; Apps</text></navLabel>
+            <content src="document-5.xhtml#H6040904"/>
+
+        </navPoint>
+        <navPoint id="tH4307474-5">
+            <navLabel><text>Fachkommunikation</text></navLabel>
+            <content src="document-5.xhtml#H4307474"/>
+
+        </navPoint>
+        <navPoint id="tH3592586-5">
+            <navLabel><text>Verantwortlichkeit und Dokumentation</text></navLabel>
+            <content src="document-5.xhtml#H3592586"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-6">
+            <navLabel><text>Szenarien: CBRN</text></navLabel>
+            <content src="document-6.xhtml"/>
+        <navPoint id="t_a01aqsuaq-6">
+            <navLabel><text>KRI09.1. Szenarien: CBRN</text></navLabel>
+            <content src="document-6.xhtml#_a01aqsuaq"/>
+        <navPoint id="tH1031180-6">
+            <navLabel><text>Einleitung</text></navLabel>
+            <content src="document-6.xhtml#H1031180"/>
+
+        </navPoint>
+        <navPoint id="tH3668150-6">
+            <navLabel><text>B-Lagen (syn. biologische Gefahrenlagen, B-Szenarien, infektiologische Gefahrenlagen)</text></navLabel>
+            <content src="document-6.xhtml#H3668150"/>
+
+        </navPoint>
+        <navPoint id="tH6094129-6">
+            <navLabel><text>C-RN-Lagen</text></navLabel>
+            <content src="document-6.xhtml#H6094129"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-7">
+            <navLabel><text>Szenarien: B-Lage</text></navLabel>
+            <content src="document-7.xhtml"/>
+        <navPoint id="t_peq8tqize-7">
+            <navLabel><text>KRI09.1. Szenarien: B-Lage</text></navLabel>
+            <content src="document-7.xhtml#_peq8tqize"/>
+        <navPoint id="tH3252052-7">
+            <navLabel><text>Unterschiedliche B-Lagen</text></navLabel>
+            <content src="document-7.xhtml#H3252052"/>
+
+        </navPoint>
+        <navPoint id="tH6696741-7">
+            <navLabel><text>Risikobewertung</text></navLabel>
+            <content src="document-7.xhtml#H6696741"/>
+
+        </navPoint>
+        <navPoint id="tH6168553-7">
+            <navLabel><text>Maßnahmen</text></navLabel>
+            <content src="document-7.xhtml#H6168553"/>
+        <navPoint id="tH4056800-7">
+            <navLabel><text>Eindämmungsstrategie (Containment)</text></navLabel>
+            <content src="document-7.xhtml#H4056800"/>
+
+        </navPoint>
+        <navPoint id="tH4201482-7">
+            <navLabel><text>Schutz-Strategie vulnerabler Gruppen (Protection)</text></navLabel>
+            <content src="document-7.xhtml#H4201482"/>
+
+        </navPoint>
+        <navPoint id="tH4430072-7">
+            <navLabel><text>Folgenminderungs-Strategie (Mitigation)</text></navLabel>
+            <content src="document-7.xhtml#H4430072"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="tH2945378-7">
+            <navLabel><text>Lagenspezifische Kommunikation</text></navLabel>
+            <content src="document-7.xhtml#H2945378"/>
+
+        </navPoint>
+        <navPoint id="tH2582787-7">
+            <navLabel><text>Alarmierung, Meldewege</text></navLabel>
+            <content src="document-7.xhtml#H2582787"/>
+
+        </navPoint>
+        <navPoint id="tH9982011-7">
+            <navLabel><text>Führungsorganisation</text></navLabel>
+            <content src="document-7.xhtml#H9982011"/>
+
+        </navPoint>
+        <navPoint id="tH3422770-7">
+            <navLabel><text>Akteure und Aufgaben</text></navLabel>
+            <content src="document-7.xhtml#H3422770"/>
+
+        </navPoint>
+        <navPoint id="tH1548111-7">
+            <navLabel><text>Ressourcen</text></navLabel>
+            <content src="document-7.xhtml#H1548111"/>
+        <navPoint id="tH4796332-7">
+            <navLabel><text>Personal</text></navLabel>
+            <content src="document-7.xhtml#H4796332"/>
+
+        </navPoint>
+        <navPoint id="tH7877750-7">
+            <navLabel><text>Persönliche Schutzausrüstung</text></navLabel>
+            <content src="document-7.xhtml#H7877750"/>
+
+        </navPoint>
+        <navPoint id="tH7390932-7">
+            <navLabel><text>Verpackungsmaterial für Proben</text></navLabel>
+            <content src="document-7.xhtml#H7390932"/>
+
+        </navPoint>
+        <navPoint id="tH4644863-7">
+            <navLabel><text>Sonstige Ressourcen</text></navLabel>
+            <content src="document-7.xhtml#H4644863"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="tH6723289-7">
+            <navLabel><text>Ambulante Versorgung</text></navLabel>
+            <content src="document-7.xhtml#H6723289"/>
+
+        </navPoint>
+        <navPoint id="tH7621420-7">
+            <navLabel><text>Klinikzuweisung, stationäre Versorgung</text></navLabel>
+            <content src="document-7.xhtml#H7621420"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-8">
+            <navLabel><text>Toolbox</text></navLabel>
+            <content src="document-8.xhtml"/>
+        <navPoint id="t_2l8za587a-8">
+            <navLabel><text>KRI10. Toolbox</text></navLabel>
+            <content src="document-8.xhtml#_2l8za587a"/>
+        <navPoint id="tH8800004-8">
+            <navLabel><text>Fachliche Maßnahmen</text></navLabel>
+            <content src="document-8.xhtml#H8800004"/>
+
+        </navPoint>
+        <navPoint id="tH196904-8">
+            <navLabel><text>Diagnostik</text></navLabel>
+            <content src="document-8.xhtml#H196904"/>
+
+        </navPoint>
+        <navPoint id="tH4613197-8">
+            <navLabel><text>Arbeitsschutz / Schutzausrüstung</text></navLabel>
+            <content src="document-8.xhtml#H4613197"/>
+        <navPoint id="tH9334672-8">
+            <navLabel><text>Grundlagen</text></navLabel>
+            <content src="document-8.xhtml#H9334672"/>
+
+        </navPoint>
+        <navPoint id="tH7975605-8">
+            <navLabel><text>Persönliche Schutzausrüstung</text></navLabel>
+            <content src="document-8.xhtml#H7975605"/>
+
+        </navPoint>
+        <navPoint id="tH1649642-8">
+            <navLabel><text>Atemschutz</text></navLabel>
+            <content src="document-8.xhtml#H1649642"/>
+
+        </navPoint>
+        <navPoint id="tH6871480-8">
+            <navLabel><text>Augenschutz</text></navLabel>
+            <content src="document-8.xhtml#H6871480"/>
+
+        </navPoint>
+        <navPoint id="tH7711889-8">
+            <navLabel><text>Handhygiene</text></navLabel>
+            <content src="document-8.xhtml#H7711889"/>
+
+        </navPoint>
+        <navPoint id="tH5662855-8">
+            <navLabel><text>Bedarf an Schutzausrüstung</text></navLabel>
+            <content src="document-8.xhtml#H5662855"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="tH1753525-8">
+            <navLabel><text>Surveillance</text></navLabel>
+            <content src="document-8.xhtml#H1753525"/>
+
+        </navPoint>
+        <navPoint id="tH2712169-8">
+            <navLabel><text>Desinfektionsschutzmaßnahmen</text></navLabel>
+            <content src="document-8.xhtml#H2712169"/>
+
+        </navPoint>
+        <navPoint id="tH6025953-8">
+            <navLabel><text>Schutzmaßnahmen</text></navLabel>
+            <content src="document-8.xhtml#H6025953"/>
+        <navPoint id="tH6346113-8">
+            <navLabel><text>Postexpositionsprophylaxe</text></navLabel>
+            <content src="document-8.xhtml#H6346113"/>
+
+        </navPoint>
+        <navPoint id="tH8574446-8">
+            <navLabel><text>Isolierung/Absonderung/Quarantäne</text></navLabel>
+            <content src="document-8.xhtml#H8574446"/>
+
+        </navPoint>
+        <navPoint id="tH5968303-8">
+            <navLabel><text>Praktische Aspekte von Isolierungsmaßnahmen</text></navLabel>
+            <content src="document-8.xhtml#H5968303"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="tH938196-8">
+            <navLabel><text>Logistische Maßnahmen</text></navLabel>
+            <content src="document-8.xhtml#H938196"/>
+        <navPoint id="tH5471160-8">
+            <navLabel><text>Rettungsdienstlicher Patiententransport</text></navLabel>
+            <content src="document-8.xhtml#H5471160"/>
+
+        </navPoint>
+        <navPoint id="tH6842548-8">
+            <navLabel><text>Transport infektiöser Personen</text></navLabel>
+            <content src="document-8.xhtml#H6842548"/>
+
+        </navPoint>
+        <navPoint id="tH3811077-8">
+            <navLabel><text>Dekontamination kontaminierter Personen</text></navLabel>
+            <content src="document-8.xhtml#H3811077"/>
+
+        </navPoint>
+        <navPoint id="tH6860626-8">
+            <navLabel><text>Transportkapazitäten in der Krise</text></navLabel>
+            <content src="document-8.xhtml#H6860626"/>
+
+        </navPoint>
+        <navPoint id="tH4898047-8">
+            <navLabel><text>Sonderisolier- oder Hochinfektionstransport</text></navLabel>
+            <content src="document-8.xhtml#H4898047"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="tH4686396-8">
+            <navLabel><text>Proben</text></navLabel>
+            <content src="document-8.xhtml#H4686396"/>
+        <navPoint id="tH6891434-8">
+            <navLabel><text>Probenahme</text></navLabel>
+            <content src="document-8.xhtml#H6891434"/>
+
+        </navPoint>
+        <navPoint id="tH1186530-8">
+            <navLabel><text>Probentransport</text></navLabel>
+            <content src="document-8.xhtml#H1186530"/>
+        <navPoint id="tH9956214-8">
+            <navLabel><text>Verantwortlichkeiten</text></navLabel>
+            <content src="document-8.xhtml#H9956214"/>
+
+        </navPoint>
+        <navPoint id="tH2847372-8">
+            <navLabel><text>Klassifizierung</text></navLabel>
+            <content src="document-8.xhtml#H2847372"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="tH6522925-8">
+            <navLabel><text>Verpackungsvorschriften</text></navLabel>
+            <content src="document-8.xhtml#H6522925"/>
+
+        </navPoint>
+        <navPoint id="tH2913425-8">
+            <navLabel><text>Notfallbeförderung</text></navLabel>
+            <content src="document-8.xhtml#H2913425"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="tH8367351-8">
+            <navLabel><text>Kontaktminimierende Maßnahmen</text></navLabel>
+            <content src="document-8.xhtml#H8367351"/>
+
+        </navPoint>
+        <navPoint id="tH3821633-8">
+            <navLabel><text>Therapie und Impfkonzept</text></navLabel>
+            <content src="document-8.xhtml#H3821633"/>
+
+        </navPoint>
+        <navPoint id="tH9995893-8">
+            <navLabel><text>Umgang mit Leichen</text></navLabel>
+            <content src="document-8.xhtml#H9995893"/>
+        <navPoint id="tH2628723-8">
+            <navLabel><text>Hohe Anzahl von Verstorbenen</text></navLabel>
+            <content src="document-8.xhtml#H2628723"/>
+
+        </navPoint>
+        <navPoint id="tH4191918-8">
+            <navLabel><text>Kontagiöse Leichname</text></navLabel>
+            <content src="document-8.xhtml#H4191918"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="tH7408759-8">
+            <navLabel><text>Entsorgungsmanagement</text></navLabel>
+            <content src="document-8.xhtml#H7408759"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-9">
+            <navLabel><text>Annex-Checkliste: Gesundheitsamt im Krisenmodus</text></navLabel>
+            <content src="document-9.xhtml"/>
+        <navPoint id="t_ns74jhhip-9">
+            <navLabel><text>KRI11. Annex-Checkliste: Gesundheitsamt im Krisenmodus</text></navLabel>
+            <content src="document-9.xhtml#_ns74jhhip"/>
+        <navPoint id="tH8783646-9">
+            <navLabel><text>Alarmierung</text></navLabel>
+            <content src="document-9.xhtml#H8783646"/>
+
+        </navPoint>
+        <navPoint id="tH7585533-9">
+            <navLabel><text>Zugangsregelung Gesundheitsamt</text></navLabel>
+            <content src="document-9.xhtml#H7585533"/>
+
+        </navPoint>
+        <navPoint id="tH1459397-9">
+            <navLabel><text>Organisation</text></navLabel>
+            <content src="document-9.xhtml#H1459397"/>
+
+        </navPoint>
+        <navPoint id="tH1230930-9">
+            <navLabel><text>Leitung des Stabes</text></navLabel>
+            <content src="document-9.xhtml#H1230930"/>
+
+        </navPoint>
+        <navPoint id="tH2236778-9">
+            <navLabel><text>Lagedarstellung</text></navLabel>
+            <content src="document-9.xhtml#H2236778"/>
+
+        </navPoint>
+        <navPoint id="tH19790-9">
+            <navLabel><text>Infrastruktur (Räume, Technik)</text></navLabel>
+            <content src="document-9.xhtml#H19790"/>
+
+        </navPoint>
+        <navPoint id="tH3974470-9">
+            <navLabel><text>Organisation</text></navLabel>
+            <content src="document-9.xhtml#H3974470"/>
+        <navPoint id="tH6554956-9">
+            <navLabel><text>Fachliche Inhalte, FAQ</text></navLabel>
+            <content src="document-9.xhtml#H6554956"/>
+
+        </navPoint>
+        <navPoint id="tH214849-9">
+            <navLabel><text>Personelle Besetzung Bürgertelefon</text></navLabel>
+            <content src="document-9.xhtml#H214849"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-10">
+            <navLabel><text>Annex-Checkliste: Kommunikation</text></navLabel>
+            <content src="document-10.xhtml"/>
+        <navPoint id="t_uvwh6ac8a-10">
+            <navLabel><text>KRI11. Annex-Checkliste: Kommunikation</text></navLabel>
+            <content src="document-10.xhtml#_uvwh6ac8a"/>
+        <navPoint id="tH3504160-10">
+            <navLabel><text>Auswahl der Kommunikationsform</text></navLabel>
+            <content src="document-10.xhtml#H3504160"/>
+
+        </navPoint>
+        <navPoint id="tH2417369-10">
+            <navLabel><text>Inhaltliche Vorbereitung</text></navLabel>
+            <content src="document-10.xhtml#H2417369"/>
+
+        </navPoint>
+        <navPoint id="tH4170169-10">
+            <navLabel><text>Pressemitteilung</text></navLabel>
+            <content src="document-10.xhtml#H4170169"/>
+
+        </navPoint>
+        <navPoint id="tH9808761-10">
+            <navLabel><text>Checkliste Pressekonferenz</text></navLabel>
+            <content src="document-10.xhtml#H9808761"/>
+        <navPoint id="tH1035110-10">
+            <navLabel><text>Einladung</text></navLabel>
+            <content src="document-10.xhtml#H1035110"/>
+
+        </navPoint>
+        <navPoint id="tH344088-10">
+            <navLabel><text>Absperrung/Zugangsbeschränkung</text></navLabel>
+            <content src="document-10.xhtml#H344088"/>
+
+        </navPoint>
+        <navPoint id="tH93683-10">
+            <navLabel><text>Presseraum</text></navLabel>
+            <content src="document-10.xhtml#H93683"/>
+
+        </navPoint>
+        <navPoint id="tH2356743-10">
+            <navLabel><text>Journalistenbegleitung/-betreuung</text></navLabel>
+            <content src="document-10.xhtml#H2356743"/>
+
+        </navPoint>
+        <navPoint id="tH5985467-10">
+            <navLabel><text>Regelmäßige Pressebriefings</text></navLabel>
+            <content src="document-10.xhtml#H5985467"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-11">
+            <navLabel><text>Annex-Checkliste: Infrastruktur und Ausstattung im Krisenstab</text></navLabel>
+            <content src="document-11.xhtml"/>
+        <navPoint id="t_urx67mh5k-11">
+            <navLabel><text>KRI11. Annex-Checkliste: Infrastruktur und Ausstattung im Krisenstab</text></navLabel>
+            <content src="document-11.xhtml#_urx67mh5k"/>
+        <navPoint id="tH8783646-11">
+            <navLabel><text>Räume</text></navLabel>
+            <content src="document-11.xhtml#H8783646"/>
+
+        </navPoint>
+        <navPoint id="tH7585533-11">
+            <navLabel><text>IT-Ausstattung</text></navLabel>
+            <content src="document-11.xhtml#H7585533"/>
+
+        </navPoint>
+        <navPoint id="tH1459397-11">
+            <navLabel><text>Telefon und Telefax</text></navLabel>
+            <content src="document-11.xhtml#H1459397"/>
+
+        </navPoint>
+        <navPoint id="tH8256275-11">
+            <navLabel><text>Büroausstattung/Technik</text></navLabel>
+            <content src="document-11.xhtml#H8256275"/>
+
+        </navPoint>
+        <navPoint id="tH6276763-11">
+            <navLabel><text>Material</text></navLabel>
+            <content src="document-11.xhtml#H6276763"/>
+
+        </navPoint>
+        <navPoint id="tH3974470-11">
+            <navLabel><text>Vorlagen</text></navLabel>
+            <content src="document-11.xhtml#H3974470"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-12">
+            <navLabel><text>Annex-Checkliste: Planungshilfe Gesundheitsämter</text></navLabel>
+            <content src="document-12.xhtml"/>
+        <navPoint id="t_sg9vrpqjc-12">
+            <navLabel><text>KRI11. Annex-Checkliste: Planungshilfe Gesundheitsämter</text></navLabel>
+            <content src="document-12.xhtml#_sg9vrpqjc"/>
+        <navPoint id="tH8945044-12">
+            <navLabel><text>Koordination</text></navLabel>
+            <content src="document-12.xhtml#H8945044"/>
+
+        </navPoint>
+        <navPoint id="tH4953776-12">
+            <navLabel><text>Risikomanagment</text></navLabel>
+            <content src="document-12.xhtml#H4953776"/>
+
+        </navPoint>
+        <navPoint id="tH4211009-12">
+            <navLabel><text>Personalmanagement</text></navLabel>
+            <content src="document-12.xhtml#H4211009"/>
+
+        </navPoint>
+        <navPoint id="tH7161079-12">
+            <navLabel><text>Kommunikation</text></navLabel>
+            <content src="document-12.xhtml#H7161079"/>
+
+        </navPoint>
+        <navPoint id="tH231283-12">
+            <navLabel><text>Ausbruchuntersuchung</text></navLabel>
+            <content src="document-12.xhtml#H231283"/>
+
+        </navPoint>
+        <navPoint id="tH7660040-12">
+            <navLabel><text>Beratung</text></navLabel>
+            <content src="document-12.xhtml#H7660040"/>
+
+        </navPoint>
+        <navPoint id="tH7337131-12">
+            <navLabel><text>ORDNUNGSRECHTLICHE AUFGABEN</text></navLabel>
+            <content src="document-12.xhtml#H7337131"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-13">
+            <navLabel><text>Annex-Checkliste: Planungshilfe Krankenhäuser</text></navLabel>
+            <content src="document-13.xhtml"/>
+        <navPoint id="t_s2432v4pw-13">
+            <navLabel><text>KRI11. Annex-Checkliste: Planungshilfe Krankenhäuser</text></navLabel>
+            <content src="document-13.xhtml#_s2432v4pw"/>
+        <navPoint id="tH4309653-13">
+            <navLabel><text>Hintergrund</text></navLabel>
+            <content src="document-13.xhtml#H4309653"/>
+
+        </navPoint>
+        <navPoint id="tH8994029-13">
+            <navLabel><text>Vorbereitende Maßnahmen</text></navLabel>
+            <content src="document-13.xhtml#H8994029"/>
+
+        </navPoint>
+        <navPoint id="tH281944-13">
+            <navLabel><text>Organisatorische Maßnahmen zur Sicherstellung der stationären Versorgung</text></navLabel>
+            <content src="document-13.xhtml#H281944"/>
+
+        </navPoint>
+        <navPoint id="tH4211009-13">
+            <navLabel><text>Personalmanagement</text></navLabel>
+            <content src="document-13.xhtml#H4211009"/>
+
+        </navPoint>
+        <navPoint id="tH988646-13">
+            <navLabel><text>Bevorratung bzw. Managementkonzept für rasche Beschaffung im Ereignisfall</text></navLabel>
+            <content src="document-13.xhtml#H988646"/>
+
+        </navPoint>
+        <navPoint id="tH2264905-13">
+            <navLabel><text>Information und Schulung des Personals</text></navLabel>
+            <content src="document-13.xhtml#H2264905"/>
+
+        </navPoint>
+        <navPoint id="tH8580461-13">
+            <navLabel><text>Maßnahmen zum Personalschutz</text></navLabel>
+            <content src="document-13.xhtml#H8580461"/>
+
+        </navPoint>
+        <navPoint id="tH3906424-13">
+            <navLabel><text>Ausstattung der Behandlungseinheiten</text></navLabel>
+            <content src="document-13.xhtml#H3906424"/>
+
+        </navPoint>
+        <navPoint id="tH9779620-13">
+            <navLabel><text>Ablauforganisation</text></navLabel>
+            <content src="document-13.xhtml#H9779620"/>
+
+        </navPoint>
+        <navPoint id="tH6773453-13">
+            <navLabel><text>Krankenhaushygienische Maßnahmen</text></navLabel>
+            <content src="document-13.xhtml#H6773453"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-14">
+            <navLabel><text>Annex-Vorlage: Einsatztagebuch</text></navLabel>
+            <content src="document-14.xhtml"/>
+        <navPoint id="t_umd3q09bz-14">
+            <navLabel><text>KRI11. Annex-Vorlage: Einsatztagebuch</text></navLabel>
+            <content src="document-14.xhtml#_umd3q09bz"/>
+        <navPoint id="tH6833184-14">
+            <navLabel><text>Titel/Überschrift</text></navLabel>
+            <content src="document-14.xhtml#H6833184"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-15">
+            <navLabel><text>Annex-Vorlage: Format Checklisten</text></navLabel>
+            <content src="document-15.xhtml"/>
+        <navPoint id="t_h1vtetshb-15">
+            <navLabel><text>KRI11. Annex-Vorlage: Format Checklisten</text></navLabel>
+            <content src="document-15.xhtml#_h1vtetshb"/>
+        <navPoint id="tH5347698-15">
+            <navLabel><text>Checkliste – TITEL (Vorlage für Format einer Checkliste)</text></navLabel>
+            <content src="document-15.xhtml#H5347698"/>
+
+        </navPoint>
+        <navPoint id="tH5331254-15">
+            <navLabel><text>Wozu brauche ich Checklisten?</text></navLabel>
+            <content src="document-15.xhtml#H5331254"/>
+
+        </navPoint>
+        <navPoint id="tH9004302-15">
+            <navLabel><text>Wie erstelle ich eine Checkliste?</text></navLabel>
+            <content src="document-15.xhtml#H9004302"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-16">
+            <navLabel><text>Annex-AbkürzungenClose</text></navLabel>
+            <content src="document-16.xhtml"/>
+        <navPoint id="t_d869mwcqm-16">
+            <navLabel><text>KRI11. Annex-Abkürzungen</text></navLabel>
+            <content src="document-16.xhtml#_d869mwcqm"/>
+        <navPoint id="tH2432539-16">
+            <navLabel><text>Akürzungen</text></navLabel>
+            <content src="document-16.xhtml#H2432539"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-17">
+            <navLabel><text>Annex-Websites</text></navLabel>
+            <content src="document-17.xhtml"/>
+        <navPoint id="t_cse42dypp-17">
+            <navLabel><text>KRI11. Annex-Websites</text></navLabel>
+            <content src="document-17.xhtml#_cse42dypp"/>
+        <navPoint id="tH3353465-17">
+            <navLabel><text>Webseiten A-Z</text></navLabel>
+            <content src="document-17.xhtml#H3353465"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-18">
+            <navLabel><text>Beteiligte</text></navLabel>
+            <content src="document-18.xhtml"/>
+        <navPoint id="t_yzsxhk2tu-18">
+            <navLabel><text>KRIa. Beteiligte</text></navLabel>
+            <content src="document-18.xhtml#_yzsxhk2tu"/>
+        <navPoint id="tH2562156-18">
+            <navLabel><text>Autoren/innen</text></navLabel>
+            <content src="document-18.xhtml#H2562156"/>
+
+        </navPoint>
+        <navPoint id="tH3913069-18">
+            <navLabel><text>Anerkennung &amp; Danksagung</text></navLabel>
+            <content src="document-18.xhtml#H3913069"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-19">
+            <navLabel><text>Über uns</text></navLabel>
+            <content src="document-19.xhtml"/>
+        <navPoint id="t_2kmcxadh7-19">
+            <navLabel><text>KRIb. Über uns</text></navLabel>
+            <content src="document-19.xhtml#_2kmcxadh7"/>
+        <navPoint id="tH7871147-19">
+            <navLabel><text>Finanzierung</text></navLabel>
+            <content src="document-19.xhtml#H7871147"/>
+
+        </navPoint>
+        <navPoint id="tH6184088-19">
+            <navLabel><text>Open Access</text></navLabel>
+            <content src="document-19.xhtml#H6184088"/>
+
+        </navPoint>
+        <navPoint id="tH8887582-19">
+            <navLabel><text>Urheberrechtserklärung &amp; Lizenz</text></navLabel>
+            <content src="document-19.xhtml#H8887582"/>
+
+        </navPoint>
+        <navPoint id="tH7706711-19">
+            <navLabel><text>Helfen Sie uns, das Lehrbuch zu verbessern</text></navLabel>
+            <content src="document-19.xhtml#H7706711"/>
+
+        </navPoint>
+        <navPoint id="tH6104650-19">
+            <navLabel><text>Nachhaltigkeit und Weiterentwicklung</text></navLabel>
+            <content src="document-19.xhtml#H6104650"/>
+
+        </navPoint>
+        <navPoint id="tH7839863-19">
+            <navLabel><text>Methode</text></navLabel>
+            <content src="document-19.xhtml#H7839863"/>
+
+        </navPoint>
+        <navPoint id="tentstehungsprozess-19">
+            <navLabel><text>Entstehungsprozess</text></navLabel>
+            <content src="document-19.xhtml#entstehungsprozess"/>
+
+        </navPoint>
+        <navPoint id="tH269972-19">
+            <navLabel><text>Haftungsausschluss (Disclaimer)</text></navLabel>
+            <content src="document-19.xhtml#H269972"/>
+
+        </navPoint>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t0-20">
+            <navLabel><text>Impressum</text></navLabel>
+            <content src="document-20.xhtml"/>
+        <navPoint id="t_8t595ajsi-20">
+            <navLabel><text>KRIc. Impressum</text></navLabel>
+            <content src="document-20.xhtml#_8t595ajsi"/>
+        <navPoint id="tH2773125-20">
+            <navLabel><text>Kontaktangaben</text></navLabel>
+            <content src="document-20.xhtml#H2773125"/>
+
+        </navPoint>
+        <navPoint id="tH487059-20">
+            <navLabel><text>Haftung für Inhalte</text></navLabel>
+            <content src="document-20.xhtml#H487059"/>
+
+        </navPoint>
+        <navPoint id="tH8902835-20">
+            <navLabel><text>Haftung für Links</text></navLabel>
+            <content src="document-20.xhtml#H8902835"/>
+
+        </navPoint>
+
+        </navPoint>
+        <navPoint id="t2">
+            <navLabel><text>Copyright</text></navLabel>
+            <content src="copyright.xhtml#copyright"/>
+
+        </navPoint>
+
+        </navPoint>
+
+    </navMap>
+</ncx>
